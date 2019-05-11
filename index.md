@@ -1,17 +1,26 @@
 ---
 layout: page
 ---
+<img src="{{ site.baseurl }}/images/profile.jpg" alt="Profile" style="height: 250px; float: left; margin-right: 2em;"/>
 
-Some information about you!
+### Emil Irgi Fathurachmat
+### Computer Science '17, THM
+
+Mail: <a href="mailto:emil.irgi.fathurachmat@mni.thm.de">emil.irgi.fathurachmat@mni.thm.de</a>
+
+Git: <a href="https://git.thm.de/eift94">eift94</a>
+
+<div style="clear: both"></div>
+
+### What is this?
 
 
-### More Information
-
-
-A place to include any other types of information that you'd like to include about yourself.
+Basically, everything I wanna write will be written here, in this site. But due to my limited knowledge of HTML and web building, it may look sad. I apologize in advance.
 
 
 ### Contact me
 
 
-[email@domain.com](mailto:email@domain.com)
+[Private E-mail](mailto:emilirgi18@gmail.com)
+
+[Work E-mail](mailto:emil.irgi.fathurachmat@mni.thm.de)
