@@ -6,9 +6,9 @@ layout: page
 ### Emil Irgi Fathurachmat
 ### Computer Science '17, THM
 
-Mail: <a href="mailto:emil.irgi.fathurachmat@mni.thm.de">emil.irgi.fathurachmat@mni.thm.de</a>
+[E-mail](mailto:emil.irgi.fathurachmat@mni.thm.de)
 
-Git: <a href="https://git.thm.de/eift94">eift94</a>
+[GitLab](https://git.thm.de/eift94)
 
 <div style="clear: both"></div>
 
@@ -16,11 +16,3 @@ Git: <a href="https://git.thm.de/eift94">eift94</a>
 
 
 Basically, everything I wanna write will be written here, in this site. But due to my limited knowledge of HTML and web building, it may look sad. I apologize in advance.
-
-
-### Contact me
-
-
-[Private E-mail](mailto:emilirgi18@gmail.com)
-
-[Work E-mail](mailto:emil.irgi.fathurachmat@mni.thm.de)
