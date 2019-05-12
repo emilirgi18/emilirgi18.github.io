@@ -3,12 +3,15 @@ layout: page
 ---
 <img src="{{ site.baseurl }}/images/profile.jpg" alt="Profile" style="height: 250px; float: left; margin-right: 2em;"/>
 
-### Emil Irgi Fathurachmat
-### Computer Science '17, THM
+<div style="float: left">
 
-[E-mail](mailto:emil.irgi.fathurachmat@mni.thm.de)
-
-[GitLab](https://git.thm.de/eift94)
+<h3>Emil Irgi Fathurachmat</h3>
+<h3>Computer Science '17, THM</h3>
+<br>
+<a href="mailto:emil.irgi.fathurachmat@mni.thm.de">E-mail</a>
+<br><br>
+<a href="https://git.thm.de/eift94">Git</a>
+</div>
 
 <div style="clear: both"></div>
 
