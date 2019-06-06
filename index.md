@@ -8,9 +8,6 @@ layout: page
 <h3>Emil Irgi Fathurachmat</h3>
 <h3>Computer Science '17, THM</h3>
 <br>
-<a href="mailto:emil.irgi.fathurachmat@mni.thm.de">E-mail</a>
-<br><br>
-<a href="https://git.thm.de/eift94">Git</a>
 </div>
 
 <div style="clear: both"></div>
@@ -18,4 +15,9 @@ layout: page
 ### What is this?
 
 
-Basically, everything I wanna write will be written here, in this site. But due to my limited knowledge of HTML and web building, it may look sad. I apologize in advance.
+Basically, everything I wanna write will be written here, in this site. But mostly it's all my rants and tantrum.
+
+### What have I done?
+
+
+I made this Progressive Web App <a href="http://sakamichi-akb-chords.github.io" target="_blank">SakamichiAKB Chords</a> as a centralized "*database*" for AKB48 Group/Sakamichi Series chords.
