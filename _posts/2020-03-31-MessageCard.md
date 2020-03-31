@@ -3,6 +3,8 @@ title: Hinatazaka46 1st Anniversary Message Card
 layout: post
 ---
 
+*All cards are in order according to their generation and alphabetically.*
+
 Ushio Sarina (Nacho)
 -------------------------------------
 <img src="{{ site.baseurl }}/images/Hinatazaka46_200331_0768.jpg" alt="Ushio Sarina's card" style="height: 250px; margin-right: 2em;"/>
