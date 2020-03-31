@@ -146,7 +146,7 @@ It's been a year since we've been frantically moving on.
 Thank you for always supporting Hinatazaka46.  
 I feel that the 2nd year will be a year to thank ohisama more than ever.  
 "Glad that you like Hinatazaka46!!"  
-On the 2nd year too, I'm gonna do my so that I'll get such thought♥️  
+On the 2nd year too, I'm gonna do my best so that I'll get such thought♥️  
 
 Watanabe Miho (Bemiho)
 -------------------------------------------
