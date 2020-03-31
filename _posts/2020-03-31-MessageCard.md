@@ -44,7 +44,7 @@ Sasaki Mirei (Sasami)
 <img src="{{ site.baseurl }}/images/Hinatazaka46_200331_0764.jpg" alt="Sasaki Mirei's card" style="height: 250px; margin-right: 2em;"/>
 
 When you are overwhelmed, look forward and advance!  
-Dear ohisama (fans)!!  
+Dear ohisama!!  
 Thank you for always cheering us♥️  
 From now on too please take care of us😊  
 
