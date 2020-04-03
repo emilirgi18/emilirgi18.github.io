@@ -15,9 +15,5 @@ layout: page
 ### What is this?
 
 
-Basically, everything I wanna write will be written here, in this site. But mostly it's all my rants and tantrum.
-
-### What have I done?
-
-
-I made this Progressive Web App <a href="http://sakamichi-akb-chords.github.io" target="_blank">SakamichiAKB Chords</a> as a centralized "*database*" for AKB48 Group/Sakamichi Series chords.
+Basically, everything I wanna write will be written here, in this site. But mostly it's all my rants and tantrum.  
+You can read my blog by clicking that Blog button on top or just click <a href="irgi.eu">here</a>
