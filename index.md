@@ -16,4 +16,4 @@ layout: page
 
 
 Basically, everything I wanna write will be written here, in this site. But mostly it's all my rants and tantrum.  
-You can read my blog by clicking that Blog button on top or just click <a href="irgi.eu">here</a>
+You can read my blog by clicking that Blog button on top or just click <a href="/blog">here</a>
