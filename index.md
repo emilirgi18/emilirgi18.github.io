@@ -13,7 +13,8 @@ layout: page
 <div style="clear: both"></div>
 
 ### What is this?
-
-
 Basically, everything I wanna write will be written here, in this site. But mostly it's all my rants and tantrum.  
-You can read my blog by clicking that Blog button on top or just click <a href="/blog">here</a>
+You can read my blog by clicking that Blog button on top or just click <a href="/blog">here</a>.   
+
+### Translation works
+<a href="/MessageCard">Hinatazaka46 1st Anniversary Message Cards</a>
