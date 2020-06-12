@@ -11,7 +11,7 @@ Ushio Sarina (Nacho)
 
 Let's create a lot of memories!  
 Thanks for always supporting us.  
-I hope int the 2nd year we can create a lot of memories together...♥️  
+I hope in the 2nd year we can create a lot of memories together...♥️  
 From here on too please take care of us.  
 
 Kato Shiho (Katoshi)
