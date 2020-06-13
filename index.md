@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-<img src="{{ site.baseurl }}/images/profile.jpg" alt="Profile" style="height: 250px; float: left; margin-right: 2em;"/>
+<img src="https://irgi.eu/images/profile.jpg" alt="Profile" style="height: 250px; float: left; margin-right: 2em;"/>
 
 <div style="float: left">
 
