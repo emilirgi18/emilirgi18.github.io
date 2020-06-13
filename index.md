@@ -17,7 +17,7 @@ Basically, everything I wanna write will be written here, in this site. But most
 You can read my blog by clicking that Blog button on top or just click <a href="/blog">here</a>.   
 
 ### Youtube
-I"ve been uploading some gaming content and (a few) song cover on my Youtube Channel. You can click <a href="https://www.youtube.com/channel/UC3klpZapLJvHE-0Qz-X5YtA">here</a> or click the Youtube icon down below.
+I've been uploading some gaming content and (a few) song cover on my Youtube Channel. You can click <a href="https://www.youtube.com/channel/UC3klpZapLJvHE-0Qz-X5YtA">here</a> or click the Youtube icon down below.
 
 ### Translation works
 <a href="/MessageCard">Hinatazaka46 1st Anniversary Message Cards</a>   
