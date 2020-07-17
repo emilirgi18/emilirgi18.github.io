@@ -6,7 +6,9 @@ layout: page
 <div style="float: left">
 
 <h3>Emil Irgi Fathurachmat</h3>
-<h3>Computer Science '17, THM</h3>
+<p>Idol Lover<br>
+Tech Enthusiast<br>
+Programmer to-be</p>
 <br>
 </div>
 
