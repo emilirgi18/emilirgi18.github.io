@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+    {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link rel="icon" href="/images/karikatur/1300X1300PNG.png">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
+
+  <body onload="load()" onClick="show()">
+    <div style="display: block;: 100%; height: 100%;" onClick="show()">
+        <div class="intro" onClick="show()" id="depan">
+            <svg id="logo" width="141" height="71" viewBox="0 0 141 71" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M8.95312 70H0.375V1.75H8.95312V70Z" stroke="black" stroke-width="1"/>
+                <path d="M44.625 42.3906H32.625V70H24V1.75H43.125C49.8125 1.75 54.875 3.5 58.3125 7C61.75 10.4688 63.4688 15.5625 63.4688 22.2812C63.4688 26.5 62.5312 30.1875 60.6562 33.3438C58.8125 36.4688 56.1875 38.8281 52.7812 40.4219L66 69.4375V70H56.7656L44.625 42.3906ZM32.625 35.0312H43.0312C46.625 35.0312 49.4844 33.875 51.6094 31.5625C53.7656 29.25 54.8438 26.1562 54.8438 22.2812C54.8438 13.5312 50.875 9.15625 42.9375 9.15625H32.625V35.0312Z" stroke="black" stroke-width="1"/>
+                <path d="M117.703 61.5156L116.203 63.3906C111.891 68.4219 105.578 70.9375 97.2656 70.9375C89.8906 70.9375 84.0938 68.5 79.875 63.625C75.6875 58.7188 73.5469 51.7969 73.4531 42.8594V29.4531C73.4531 19.8906 75.3594 12.7344 79.1719 7.98438C83.0156 3.20312 88.75 0.8125 96.375 0.8125C102.875 0.8125 107.953 2.625 111.609 6.25C115.297 9.875 117.328 15.0469 117.703 21.7656H109.125C108.781 17.5156 107.594 14.2031 105.562 11.8281C103.562 9.42188 100.516 8.21875 96.4219 8.21875C91.5156 8.21875 87.9219 9.82812 85.6406 13.0469C83.3594 16.2344 82.1719 21.3438 82.0781 28.375V42.2969C82.0781 49.1719 83.3906 54.4531 86.0156 58.1406C88.6406 61.7969 92.4062 63.625 97.3125 63.625C101.938 63.625 105.453 62.5 107.859 60.25L109.125 59.0781V43.3281H96.6562V36.0156H117.703V61.5156Z" stroke="black" stroke-width="1"/>
+                <path d="M140.672 70H132.094V1.75H140.672V70Z" stroke="black" stroke-width="1"/>
+            </svg>
+        </div>
+        <div id="utama" style="display: none">
+            <div class="wrapper-masthead">
+            <div class="container">
+                <header class="masthead clearfix">
+                <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+
+                <div class="site-info">
+                    <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+                    <p class="site-description">{{ site.description }}</p>
+                </div>
+
+                <nav>
+                    <a href="{{ site.baseurl }}/blog">Blog</a>
+                </nav>
+                <nav>
+                    <a href="{{ site.baseurl }}/obituary">Obituary</a>
+                </nav>
+                <nav>
+                    <a href="{{ site.baseurl }}/gallery">Gallery</a>
+                </nav>
+                </header>
+            </div>
+            </div>
+
+            <div id="main" role="main" class="container">
+            {{ content }}
+            </div>
+
+            <div class="wrapper-footer">
+            <div class="container">
+                <footer class="footer">
+                {% include svg-icons.html %}
+                </footer>
+            </div>
+            </div>
+            {% include sw.html %}
+
+            {% include analytics.html %}
+        </div>
+    </div>
+  </body>
+  <script>
+    function load(){
+        i = setTimeout(show(), 3000);
+    }
+    function show(){
+        document.getElementById("depan").style.display = "none";
+        document.getElementById("utama").style.display = "block";
+    }
+  </script>
+</html>

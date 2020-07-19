@@ -30,6 +30,59 @@ body {
   width: 100%;
 }
 
+.intro {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+
+#logo {
+    position: absolute;
+    top: 50%;
+    left: 50%; 
+    transform: translate(-50%,-50%);
+    animation: fill 1s ease forwards 2s;
+}
+
+#logo path:nth-child(1){
+    stroke-dasharray: 153;
+    stroke-dashoffset: 153;
+    animation: line-anim 2s ease forwards;
+}
+#logo path:nth-child(2){
+    stroke-dasharray: 349;
+    stroke-dashoffset: 349;
+    animation: line-anim 2s ease forwards;
+}
+#logo path:nth-child(3){
+    stroke-dasharray: 350;
+    stroke-dashoffset: 350;
+    animation: line-anim 2s ease forwards;
+}
+#logo path:nth-child(4){
+    stroke-dasharray: 153;
+    stroke-dashoffset: 153;
+    animation: line-anim 2s ease forwards;
+}
+
+@keyframes line-anim{
+    to{
+        stroke-dashoffset: 0;
+    }
+}
+
+@keyframes fill{
+    from{
+        fill: transparent;
+    }
+    to{
+        fill: black;
+    }
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
