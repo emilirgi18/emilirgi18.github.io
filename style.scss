@@ -18,7 +18,8 @@ html {
 }
 
 body {
-	background: $white;
+	background: /*$white*/ url("images/bg.png");
+    background-repeat: repeat;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -205,6 +206,7 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  //background: $lightGray;
 }
 
 .masthead {
