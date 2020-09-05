@@ -1,5 +1,5 @@
 ---
-title: Taguchi Manaka
+title: Taguchi Manaka's 755
 layout: page
 ---
 

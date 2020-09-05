@@ -4,5 +4,6 @@ title: Gallery
 permalink: /gallery
 ---
 
-![Karikatur]({{ site.baseurl }}/images/karikatur/1920X1080JPG.jpg)
+* [Karikatur]({{ site.baseurl }}/karikatur)
+* [Taguchi Manaka's 755]({{ site.baseurl }}/GalleryManaka)
 
