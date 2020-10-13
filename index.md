@@ -39,4 +39,5 @@ I do a bit gaming and music which can be found on my [Youtube channel](https://y
 I also accept donation via [Saweria](https://saweria.co/subject18){:target="_blank"} (an Indonesia-based third-party donation service) or [PayPal](https://paypal.me/emilirgi){:target="_blank"}.
 
 <embed src="https://saweria.co/overlays/recent?streamKey=16738082ba6b3c9203600787b6d4d1d9&backgroundColor=%23eee&color=%23333&fontWeight=20000&text=https%3A%2F%2Fsaweria.co%2Fsubject18+%7C+https%3A%2F%2Firgi.eu" width="100%">
+
 <!--<embed src="https://saweria.co/overlays/alert?streamKey=16738082ba6b3c9203600787b6d4d1d9&template=gibt+mir+gerade&backgroundColor=%23ddd&highlightColor=%23a0a&color=%23333333&fontWeight=500&notificationTimeout=20000" width="100%" height="100%">-->
